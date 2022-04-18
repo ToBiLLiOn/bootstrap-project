@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oluwatobialese/nucamp-project.git"
+    "url": "git+https://github.com/ToBiLLiOn/Nucamp-Project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oluwatobialese/nucamp-project/issues"
+    "url": "https://github.com/ToBiLLiOn/Nucamp-Project/issues"
   },
-  "homepage": "http://github.com/oluwatobialese/nucamp-project#readme",
+  "homepage": "http://github.com/ToBiLLiOn/Nucamp-Project#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
