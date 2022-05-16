@@ -1,0 +1,95 @@
+body {
+    font-family: "Open Sans", sans-serif; }
+
+  .card {
+    margin: 15px;
+    
+  }
+  
+  h1, h2, h3 {
+    font-family: "Lobster", cursive; }
+  
+  h2 {
+    color:#000000; 
+  }
+
+  
+  header {
+    background-color: rgb(50, 83, 200); 
+    color: #000000;
+    padding: 20px;
+  }
+
+  .jumbotron {
+    background-color: white;
+
+  }
+  
+  .site-footer {
+    background-color:  rgb(50, 83, 200);
+    padding: 20px 0; 
+  }
+  
+  .row-content {
+    padding: 20px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 200px; 
+    margin-right: -70px;
+    margin-left: -80px;
+  }
+
+  img {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  
+  .row {
+    justify-content: stretch; 
+}
+
+  .modal-body {
+      background-color: white;
+  }
+  
+  
+  .tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px; }
+  
+   a:hover {
+    color: white;
+    text-decoration: none; 
+  }
+
+  i, a  {
+    color: inherit;
+
+  } 
+  
+  .carousel-caption {
+    background-color: grey; 
+  }
+  
+  .carousel {
+    border:lightblue 
+  }
+  
+  #carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100; }
+  
+  #reserveModal .modal-header {
+    background-color: #17A2B8;
+    color: white; }
+  
+  #loginModal .modal-header {
+    background-color: #901CAD;
+    color: white; }
+
+  .b {
+      color: chocolate;
+  }
+  
